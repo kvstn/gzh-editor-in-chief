@@ -29,7 +29,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/gzh-editor-in-chief.git \
+git clone https://github.com/kvstn/gzh-editor-in-chief.git \
   ~/.workbuddy/skills/gzh-editor-in-chief
 ```
 
@@ -54,13 +54,13 @@ git clone https://github.com/<你的用户名>/gzh-editor-in-chief.git \
 
 ## 可选依赖
 
-本 skill **可独立运行**，但装了以下 skill 会更完整（它们提供本skill 引用但不内嵌的口径）：
+本 skill **可独立运行**，但装了以下 skill 会更完整（它们提供本 skill 引用但不内嵌的口径）：
 
-| Skill | 作用 | 缺失时|
+| Skill | 作用 | 缺失时 |
 |---|---|---|
-| 议论文体风格锁 | 议论文专项 24 项的口径来源 | 24 项仍能跑，但风格判定会略粗 |
-| 散文风格锁 | 散文/混合体的风格口径 | 跑 12 维通用即可 |
-| 错别字检查 | 字面层校对 | 需自行检查错字 |
+| 议论文体风格锁（opinion-style） | 议论文专项 24 项的口径来源 | 24 项仍能跑，但风格判定会略粗 |
+| 散文风格锁（essay-style） | 散文/混合体的风格口径 | 跑 12 维通用即可 |
+| 错别字检查（typo-check） | 字面层校对 | 需自行检查错字 |
 
 ## 许可
 
